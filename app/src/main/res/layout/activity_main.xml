@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.a599799.soundapp.MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Lamborghini"
+        android:tesxtSize="32sp"
+        android:textColor="#060A4F"
+        android:id="@+id/textView"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/stress"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+
+        <Button
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            />
+
+
+
+
+</android.support.constraint.ConstraintLayout>
